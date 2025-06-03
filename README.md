@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aprhyvs
+# Hi, I’m @aprhyvs
 - 👀 I’m interested in UI/UX Design
 - 🌱 I’m currently learning JavaScript
 
