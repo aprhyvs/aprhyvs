@@ -1,6 +1,6 @@
 # Hi, I’m @aprhyvs
 - 👀 I’m interested in Web Development, UI/UX Design
-- 🌱 I’m currently learning JavaScript
+- 🌱 I'm currently learning full-stack JavaScript through The Odin Project.
 
 <!---
 aprhyvs/aprhyvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
